@@ -14,6 +14,6 @@
 # limitations under the License.
 #
 
-COMMON_LUNCH_CHOICES :=  \
+LUNCH_MENU_CHOICES :=  \
     full_tate-eng \
     lineage_tate-userdebug 
