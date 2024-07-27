@@ -18,4 +18,4 @@ PRODUCT_MAKEFILES := $(LOCAL_DIR)/full_tate.mk
 
 COMMON_LUNCH_CHOICES :=  \
     full_tate-eng \
-    lineage_tate-userdebug
+    full_tate-userdebug
