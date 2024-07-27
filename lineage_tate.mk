@@ -17,7 +17,7 @@ $(call inherit-product, vendor/lineage/config/common_full_tablet_wifionly.mk)
 
 # Inherit device configuration for bowser
 $(call inherit-product, device/amazon/tate/full_tate.mk)
-$(call inherit-product, device/amazon/bowser-common/lineage_tate.mk)
+$(call inherit-product, device/amazon/bowser-common/cm.mk)
 
 #TARGET_SCREEN_WIDTH := 1280
 TARGET_SCREEN_WIDTH := 480
